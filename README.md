@@ -4,7 +4,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 
 ## About me
 - Studying: CS230, UiTM
-- Currently learning: Parallel Processing
+- Currently learning: Parallel Processing and Algorithm Analysis
 - My FYP area: Optimization
 
 ## Skills and tools

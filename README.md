@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 Python, Java, SQL
 
 ## Projects
-- https://github.com/azr168: welcome to my github
+- [https://github.com/azr168](https://github.com/azr168/university-timetabling-optimization.git): welcome
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/azri-izzuddin-bujang-810aba442
